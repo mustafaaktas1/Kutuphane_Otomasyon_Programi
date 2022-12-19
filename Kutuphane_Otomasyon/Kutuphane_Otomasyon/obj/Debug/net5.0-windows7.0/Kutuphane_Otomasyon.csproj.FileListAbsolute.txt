@@ -1,0 +1,197 @@
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Giris.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriDuzenle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriEkle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapDuzenle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapGeriAl.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapKayit.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapOdunc.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Liste.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Oturum.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Properties.Resources.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeDuzenle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeEkle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.GenerateResource.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfoInputs.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfo.cs
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.exe
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Giris.cs
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.deps.json
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.json
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.dev.json
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\EntityFramework.SqlServer.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\EntityFramework.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SQLite.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SQLite.EF6.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CopyComplete
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\refint\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.genruntimeconfig.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\ref\Kutuphane_Otomasyon.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.exe
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.deps.json
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.json
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.dev.json
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SqlClient.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.AssemblyReference.cache
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriDuzenle.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriEkle.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapDuzenle.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapGeriAl.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapOdunc.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Liste.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Oturum.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Properties.Resources.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeDuzenle.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeEkle.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.GenerateResource.cache
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfoInputs.cache
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfo.cs
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CoreCompileInputs.cache
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CopyComplete
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\refint\Kutuphane_Otomasyon.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.genruntimeconfig.cache
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\ref\Kutuphane_Otomasyon.dll
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Admin.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapEkle.resources
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Menu.cs
+D:\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Menu.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.exe
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Menu.cs
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.deps.json
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.json
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.dev.json
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SqlClient.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.AssemblyReference.cache
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Admin.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriDuzenle.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriEkle.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapGeriAl.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapOdunc.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapDuzenle.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapEkle.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Liste.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Menu.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Oturum.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Properties.Resources.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeDuzenle.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeEkle.resources
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.GenerateResource.cache
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfoInputs.cache
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfo.cs
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CoreCompileInputs.cache
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CopyComplete
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\refint\Kutuphane_Otomasyon.dll
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.genruntimeconfig.cache
+D:\Projeler\C#\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\ref\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.exe
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Menu.cs
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.deps.json
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.json
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.dev.json
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Admin.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriDuzenle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriEkle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapGeriAl.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapOdunc.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapDuzenle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapEkle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Liste.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Menu.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Oturum.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Properties.Resources.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeDuzenle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeEkle.resources
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.GenerateResource.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfoInputs.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfo.cs
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CopyComplete
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\refint\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.genruntimeconfig.cache
+C:\Users\MustafaAktas\Documents\Visual Studio 2022\Projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\ref\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.exe
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Menu.cs
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.deps.json
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.json
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.runtimeconfig.dev.json
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\Debug\net5.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Admin.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriDuzenle.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KategoriEkle.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapGeriAl.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapOdunc.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapDuzenle.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.KitapEkle.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Liste.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Menu.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Oturum.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.Properties.Resources.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeDuzenle.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.UyeEkle.resources
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.GenerateResource.cache
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfoInputs.cache
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.AssemblyInfo.cs
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.csproj.CopyComplete
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\refint\Kutuphane_Otomasyon.dll
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.pdb
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\Kutuphane_Otomasyon.genruntimeconfig.cache
+C:\Users\MustafaAktas\Desktop\Kutuphane_Otomasyon\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\Debug\net5.0-windows7.0\ref\Kutuphane_Otomasyon.dll
